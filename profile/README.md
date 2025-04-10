@@ -1,4 +1,5 @@
 # 📝 Oatnote - 오트밀처럼 꺼내 쓰는 AI 메모 관리 서비스
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/0388992b-b8d1-4537-bc65-dff5a2842efe" />
 
 > **제15기 SW 마에스트로 프로젝트 최종 결과물**  
 > 정보의 정리, 검색, 요약을 도와주는 **AI 기반 정보 관리 서비스**  
