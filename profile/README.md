@@ -90,6 +90,6 @@ Oatnote는 개인 및 조직 모두의 정보 관리 방식에 혁신을 제시�
 ---
 
 ### 🌃 Infra Architecture
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/151adb9c-e3d3-4916-b988-26c57b189dba" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/151adb9c-e3d3-4916-b988-26c57b189dba" />
 
 
